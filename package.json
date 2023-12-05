@@ -1,0 +1,27 @@
+{
+  "name": "code-base",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-table": "8.10.7",
+    "bootstrap": "^5.1.3",
+    "datatables.net": "^1.13.8",
+    "jquery": "^3.7.1",
+    "next": "14.0.3",
+    "popper.js": "^1.16.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "sweetalert2": "^11.10.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3"
+  }
+}
